@@ -62,3 +62,23 @@ En revenant sur la branche main : Git restaure l'état le plus récent du projet
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1: Nom de la branche . Ici develop
+
+2: Short hash du commit
+
+3: Message du commit
+
+4: information sur qui a commit
+
+5: Tag avec les versions
+
+6: Commit baa6795
+
+7: Commit c93cfcc
+
+8: Commit 7725aa3
+
+9: Branche dévelop
+
+10 : Branche main
