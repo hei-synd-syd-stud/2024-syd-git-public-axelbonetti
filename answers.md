@@ -54,6 +54,9 @@ Après (): Le message du commit
 
 ### Task 6
 
+En revenant sur le commit initial : Git restaure le projet à l'état exact de ce commit. Certains fichiers et modifications récentes peuvent donc disparaître, car ils n'existaient pas encore à ce stade.
+En revenant sur la branche main : Git restaure l'état le plus récent du projet, incluant toutes les modifications récentes et les fichiers créés après le commit initial.
+
 ## Gitgraph
 
 ### Task 7
